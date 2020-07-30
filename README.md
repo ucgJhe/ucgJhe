@@ -5,7 +5,6 @@
 - co-founder of UCCU Hacker
 - key contributor of Qiling framework
 - pythonista, rustacean, gopher, haskeller, Arch Linux user
-- love coding and breaking things
 
 ### Interested in
 - Web security, Container, security, IoT security
