@@ -7,7 +7,7 @@
 - pythonista, rustacean, gopher, haskeller, Arch Linux user
 
 ### Interested in
-- Web security, Container, security, IoT security
+- Web security, Container security, IoT security
 - Linux security, Python security
 
 ### Public speaking experiences
