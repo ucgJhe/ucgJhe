@@ -2,7 +2,7 @@
 
 ### I'm
 - a Cybersecurity researcher
-- co-founder of UCCU Hacker
+- founder of UCCU Hacker
 - key contributor of Qiling framework
 - pythonista, rustacean, gopher, haskeller, Arch Linux user
 
