@@ -1,14 +1,13 @@
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
 ### I'm
-- a Cybersecurity researcher
-- Founder of UCCU Hacker
-- Core developer of Qiling framework
-- Pythonista, Arch Linux user
+- a cybersecurity researcher
+- founder of UCCU Hacker
+- core developer of Qiling framework
+- pythonista, Arch Linux user
 
 ### Interested in
-- Web security, Container security, IoT security, RF security, Satellite security
-- Linux security, Python security
+- Web, Container, IoT, Linux, Python, RF, Satellite
 
 ### Public speaking experiences
 - 2016
