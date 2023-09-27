@@ -2,12 +2,12 @@
 
 ### I'm
 - a Cybersecurity researcher
-- founder of UCCU Hacker
-- key contributor of Qiling framework
+- Founder of UCCU Hacker
+- Core developer of Qiling framework
 - Pythonista, Arch Linux user
 
 ### Interested in
-- Web security, Container security, IoT security
+- Web security, Container security, IoT security, RF security, Satellite security
 - Linux security, Python security
 
 ### Public speaking experiences
